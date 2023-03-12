@@ -2,10 +2,9 @@ Hi 👋 My name is Vitali Yanusheuski
 ===================================
 
 Designer and newbie web-developer
------------------------------
+---------------------------------
 
 * 🌍  I'm based in Kraków, Poland
-* 🖥️  See my portfolio at [personal site](http://butuk.github.io/about)
 * ✉️  You can contact me at [bootook@gmail.com](mailto:bootook@gmail.com)
 * 🧠  I'm learning Angular
 
@@ -32,7 +31,9 @@ Designer and newbie web-developer
 
 ### Badges
 
-<a href="https://github.com/butuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butuk&langs_count=10&title_color=0f172a&text_color=000000&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/butuk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=butuk&bg_color=ffffff&color=000000&line=0f172a&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
