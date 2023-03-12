@@ -1,7 +1,7 @@
 Hi 👋 My name is Vitali Yanusheuski
 ===================================
 
-Web designer and webdeveloper
+Designer and newbie web-developer
 -----------------------------
 
 * 🌍  I'm based in Kraków, Poland
