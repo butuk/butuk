@@ -1,4 +1,4 @@
-Hi My name is Vitali Yanusheuski
+Hi! My name is Vitali Yanusheuski
 ===================================
 
 Designer and newbie web-developer
